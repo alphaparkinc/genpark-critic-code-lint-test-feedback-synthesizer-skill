@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-critic-code-lint-test-feedback-synthesizer-skill"
+version = "1.0.0"
+description = "Distills compilation errors, exceptions, and linter diagnostics into prioritized self-healing instructions"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
