@@ -1,0 +1,6 @@
+name: genpark-critic-code-lint-test-feedback-synthesizer-skill
+version: 1.0.0
+description: Distills compilation errors, exceptions, and linter diagnostics into prioritized self-healing instructions
+command: python
+args:
+  - mcp_server.py
