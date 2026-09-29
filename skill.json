@@ -1,0 +1,20 @@
+{
+  "name": "genpark-critic-code-lint-test-feedback-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Distills compilation errors, exceptions, and linter diagnostics into prioritized self-healing instructions",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "lint-synthesizer",
+    "code-critic",
+    "test-feedback",
+    "self-healing",
+    "error-diagnosis",
+    "python-standard-library",
+    "agent-skills",
+    "automated-repair",
+    "debugging",
+    "developer-tools"
+  ]
+}
